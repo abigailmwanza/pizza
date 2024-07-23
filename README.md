@@ -1,5 +1,6 @@
 # Pizza Place Sales
 A year's worth of sales from a fictitious pizza place, including the date and time of each order and the pizzas served, with additional details on the type, size, quantity, price, and ingredients.
+![](https://github.com/abigailmwanza/pizza/blob/main/Pepperoni%20and%20Burrata%20Pizza%20with%20Pesto.jpg)
 
 ## key Questions 
 - How many customers do we have each day? Are there any peak hours?
