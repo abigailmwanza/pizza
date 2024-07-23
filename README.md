@@ -23,7 +23,7 @@ Here's a basic outline to guide you through the process:
 - Ensure that columns have the correct data types (e.g., date columns).
 
 ### Data modelling
-
+![](https://github.com/abigailmwanza/pizza/blob/main/modelling%20pizza%20sales.png)
 
 ### DAX Calculations
 Use DAX (Data Analysis Expressions) to create measures such as total sales, profit margins.
