@@ -11,6 +11,27 @@ A year's worth of sales from a fictitious pizza place, including the date and ti
 
 - Are there any pizzas we should take of the menu, or any promotions we could leverage?
 
+Here's a basic outline to guide you through the process:
+
+### Import Data
+- Launch Power BI Desktop.
+- Click on "Home" > "Get Data" > choose the appropriate data source (e.g., Excel, CSV).
+- Import the sales dataset.
+### Data Cleaning / Data Transformation
+- Examine the dataset for missing values, duplicates, or anomalies.
+- Used Power Query Editor to clean the data (remove duplicates, fill missing values, etc.).
+- Ensure that columns have the correct data types (e.g., date columns).
+
+### Data modelling
+
+
+### DAX Calculations
+Use DAX (Data Analysis Expressions) to create measures such as total sales, profit margins.
+
+### Data Visualization
+- Building visuals using the fields and measures created.
+- Arrange visuals on the canvas to create an interactive dashboard.
+
  analyzing a year's worth of sales data for a fictional pizza place. Here are some key insights:
 ## insights
 -📈 Sales Trends: Sales peak in July, dip in September and October, and rise again in November.
