@@ -33,6 +33,8 @@ Use DAX (Data Analysis Expressions) to create measures such as total sales, prof
 - Arrange visuals on the canvas to create an interactive dashboard.
   ![](https://github.com/abigailmwanza/pizza/blob/main/pizza%20sales%201.png)
 
+  ![](https://github.com/abigailmwanza/pizza/blob/main/pizza%20sales%202.png)
+
  analyzing a year's worth of sales data for a fictional pizza place. Here are some key insights:
 ## insights
 -📈 Sales Trends: Sales peak in July, dip in September and October, and rise again in November.
