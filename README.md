@@ -31,6 +31,7 @@ Use DAX (Data Analysis Expressions) to create measures such as total sales, prof
 ### Data Visualization
 - Building visuals using the fields and measures created.
 - Arrange visuals on the canvas to create an interactive dashboard.
+  ![](https://github.com/abigailmwanza/pizza/blob/main/pizza%20sales%201.png)
 
  analyzing a year's worth of sales data for a fictional pizza place. Here are some key insights:
 ## insights
