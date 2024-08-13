@@ -2,6 +2,7 @@
 ## Project Summary
 In this Power BI project, I analyzed a year’s worth of sales data from a fictitious pizza place. The dataset includes comprehensive details on order times, pizza types, sizes, quantities, prices, and ingredients.
 
+![](https://github.com/abigailmwanza/pizza/blob/main/Pepperoni%20and%20Burrata%20Pizza%20with%20Pesto.jpg)
 ## Objectives
 - Analyze daily customer counts and identify peak hours.
 - Determine the average number of pizzas per order and identify bestsellers.
