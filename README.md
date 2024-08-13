@@ -15,7 +15,7 @@ In this Power BI project, I analyzed a year’s worth of sales data from a ficti
 - Cleaned the dataset using Power Query Editor, addressing missing values, duplicates, and ensuring correct data types.
 ### Data Modeling
 
-
+![](https://github.com/abigailmwanza/pizza/blob/main/modelling%20pizza%20sales.png)
 ### DAX Calculations
 - Applied DAX (Data Analysis Expressions) to create key metrics such as total sales and profit margins.
 ### Data Visualization
