@@ -19,8 +19,10 @@ In this Power BI project, I analyzed a year’s worth of sales data from a ficti
 ### DAX Calculations
 - Applied DAX (Data Analysis Expressions) to create key metrics such as total sales and profit margins.
 ### Data Visualization
-- Designed interactive dashboards to visualize sales trends, peak hours, and pizza popularity.
+- Designed interactive dashboards to visualize sales trends and peak hours.  
+![](https://github.com/abigailmwanza/pizza/blob/main/pizza%20overview.png)
 
+- pizza popularity.
 
 ## Key Findings
 - **Sales Trends:** Notable peak in July, decline in September and October, with a rebound in November.
