@@ -1,56 +1,40 @@
-# Pizza Place Sales
-A year's worth of sales from a fictitious pizza place, including the date and time of each order and the pizzas served, with additional details on the type, size, quantity, price, and ingredients.
-![](https://github.com/abigailmwanza/pizza/blob/main/Pepperoni%20and%20Burrata%20Pizza%20with%20Pesto.jpg)
+# Pizza Place Sales Analysis Project
+## Project Summary
+In this Power BI project, I analyzed a year’s worth of sales data from a fictitious pizza place. The dataset includes comprehensive details on order times, pizza types, sizes, quantities, prices, and ingredients.
 
-## key Questions 
-- How many customers do we have each day? Are there any peak hours?
+## Objectives
+- Analyze daily customer counts and identify peak hours.
+- Determine the average number of pizzas per order and identify bestsellers.
+- Assess total annual revenue and uncover any seasonal sales patterns.
+- Evaluate menu performance and recommend promotional strategies.
+## Methodology
+### Data Import
+- Utilized Power BI Desktop to import the sales data from Excel/CSV files.
+### Data Cleaning and Transformation
+- Cleaned the dataset using Power Query Editor, addressing missing values, duplicates, and ensuring correct data types.
+### Data Modeling
 
-- How many pizzas are typically in an order? Do we have any bestsellers?
-
-- How much money did we make this year? Can we indentify any seasonality in the sales?
-
-- Are there any pizzas we should take of the menu, or any promotions we could leverage?
-
-Here's a basic outline to guide you through the process:
-
-### Import Data
-- Launch Power BI Desktop.
-- Click on "Home" > "Get Data" > choose the appropriate data source (e.g., Excel, CSV).
-- Import the sales dataset.
-### Data Cleaning / Data Transformation
-- Examine the dataset for missing values, duplicates, or anomalies.
-- Used Power Query Editor to clean the data (remove duplicates, fill missing values, etc.).
-- Ensure that columns have the correct data types (e.g., date columns).
-
-### Data modelling
-![](https://github.com/abigailmwanza/pizza/blob/main/modelling%20pizza%20sales.png)
 
 ### DAX Calculations
-Use DAX (Data Analysis Expressions) to create measures such as total sales, profit margins.
-
+- Applied DAX (Data Analysis Expressions) to create key metrics such as total sales and profit margins.
 ### Data Visualization
-- Building visuals using the fields and measures created.
-- Arrange visuals on the canvas to create an interactive dashboard.
-  ![](https://github.com/abigailmwanza/pizza/blob/main/pizza%20sales%201.png)
+- Designed interactive dashboards to visualize sales trends, peak hours, and pizza popularity.
 
-  ![](https://github.com/abigailmwanza/pizza/blob/main/pizza%20sales%202.png)
 
- analyzing a year's worth of sales data for a fictional pizza place. Here are some key insights:
-## insights
--📈 Sales Trends: Sales peak in July, dip in September and October, and rise again in November.
+## Key Findings
+- **Sales Trends:** Notable peak in July, decline in September and October, with a rebound in November.
+- **Peak Hours:** Highest activity between 12:00-13:00 and 17:00-18:00.
+- **Top Pizzas:** Large-sized pizzas are most popular; Classic Deluxe leads in sales, while Thai Chicken generates highest revenue.
+- **Busiest Day:** Fridays, with peak sales reaching 3,500 orders.
+- **Low Performers:** Brie Carre Pizza shows the lowest sales and revenue.
 
--🕛Peak Hours: The busiest times are 12:00-13:00 and 17:00-18:00, indicating a need for extra staff during these hours.
+## Recommendations
+- Adjust staffing to cover peak hours more effectively.
+- Promote large-sized pizzas and the Classic category.
+- Prepare for seasonal sales changes.
+- Ensure adequate inventory for busy Fridays.
 
--🍕 Popular Pizzas: Large-sized pizzas are the top choice across all categories, generating the most revenue. The Classic Deluxe Pizza leads in sales and orders, while the Thai Chicken Pizza tops in revenue.
+## Skills Demonstrated
+This project highlights my expertise in data analysis, Power BI visualization, and DAX calculations. The actionable insights derived from the analysis can drive informed business decisions and strategic planning.
 
--📅 Busiest Day: Friday is the busiest day with peak sales of 3,500 orders.
-
--📉 Underperformers: The Brie Carre Pizza has the lowest revenue and sales, suggesting it might be time to rethink its place on the menu.
-
-## 💡Recommendations:
-- Optimize staffing during peak hours.
-- Promote large-sized and Classic category pizzas.
-- Prepare for seasonal sales fluctuations.
-- Ensure sufficient inventory for busy Fridays.
-
-Check out my dashboard and feel free to share your thoughts!
+For more details or to discuss how I can contribute to your team, please connect with me on LinkedIn or contact me at abigailmwnz@gmail.com.
